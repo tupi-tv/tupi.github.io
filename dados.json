@@ -2,68 +2,93 @@
   "pesquisas": {
     "presidencial": [
       {
-        "id": 1,
+        "id": 1774895459739,
+        "instituto": "RJ1",
+        "data": "2001",
+        "entrevistados": 10000,
+        "margemErro": 2,
+        "confianca": 96,
+        "candidatos": [
+          {
+            "nome": "João Neto",
+            "percentual": 48
+          },
+          {
+            "nome": "Ângela Portela",
+            "percentual": 35
+          },
+          {
+            "nome": "Michel Temer",
+            "percentual": 8
+          }
+        ],
+        "segundoTurno": null
+      },
+      {
+        "id": 1774895436662,
         "instituto": "NGV Pesquisas",
         "data": "Outubro/2002",
         "entrevistados": 5000,
         "margemErro": 2,
         "confianca": 96,
         "candidatos": [
-          { "nome": "João Neto", "percentual": 44, "cor": "#1C2BCB" },
-          { "nome": "Ângela Portela", "percentual": 37, "cor": "#F5A000" },
-          { "nome": "Michel Temer", "percentual": 9, "cor": "#22c55e" },
-          { "nome": "Eduardo Braga", "percentual": 7, "cor": "#e84560" },
-          { "nome": "Eduardo Campos", "percentual": 3, "cor": "#aab" }
+          {
+            "nome": "João Neto",
+            "percentual": 44
+          },
+          {
+            "nome": "Ângela Portela",
+            "percentual": 37
+          },
+          {
+            "nome": "Michel Temer",
+            "percentual": 9
+          },
+          {
+            "nome": "Eduardo Braga",
+            "percentual": 7
+          },
+          {
+            "nome": "Eduardo Campos",
+            "percentual": 3
+          }
         ],
         "segundoTurno": [
-          { "nome": "João Neto", "percentual": 53.42 },
-          { "nome": "Ângela Portela", "percentual": 46.58 }
-        ]
-      },
-      {
-        "id": 2,
-        "instituto": "DataFolha",
-        "data": "Setembro/2002",
-        "entrevistados": 3200,
-        "margemErro": 2,
-        "confianca": 95,
-        "candidatos": [
-          { "nome": "João Neto", "percentual": 42, "cor": "#1C2BCB" },
-          { "nome": "Ângela Portela", "percentual": 39, "cor": "#F5A000" },
-          { "nome": "Michel Temer", "percentual": 10, "cor": "#22c55e" },
-          { "nome": "Eduardo Braga", "percentual": 6, "cor": "#e84560" },
-          { "nome": "Eduardo Campos", "percentual": 3, "cor": "#aab" }
+          {
+            "nome": "João Neto",
+            "percentual": 53.42
+          },
+          {
+            "nome": "Ângela Portela",
+            "percentual": 46.58
+          }
         ]
       }
     ],
     "governador": {
-      "SP": [
-        {
-          "id": 1,
-          "instituto": "NGV Pesquisas",
-          "candidatos": [
-            { "nome": "José Serra", "percentual": 45 },
-            { "nome": "Alckmin", "percentual": 38 }
-          ]
-        }
-      ]
+      "SP": [],
+      "RS": [],
+      "GO": [],
+      "PE": [],
+      "AM": [],
+      "MG": [],
+      "RJ": [],
+      "BA": [],
+      "PR": [],
+      "SC": []
+    },
+    "senador": {
+      "SP": [],
+      "RS": [],
+      "GO": [],
+      "PE": [],
+      "AM": [],
+      "MG": [],
+      "RJ": [],
+      "BA": [],
+      "PR": [],
+      "SC": []
     }
   },
-  "apuracao": {
-    "presidencial": {
-      "status": "aguardando",
-      "percentualTotal": 0,
-      "votos": {
-        "João Neto": 0,
-        "Ângela Portela": 0,
-        "Michel Temer": 0,
-        "Eduardo Braga": 0,
-        "Eduardo Campos": 0
-      },
-      "brancos": 0,
-      "nulos": 0,
-      "totalVotos": 0
-    }
-  },
-  "ultimaAtualizacao": "2026-03-30T10:00:00"
+  "ultimaAtualizacao": "2026-03-30T18:30:59.739Z"
 }
